@@ -1,0 +1,33 @@
+repo_name: bandaymuzzamil/LinkedIn
+report_id: '059eac245e5a3118c11dcd111d25dd11'
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-07T23:56:45+00:00'
+requested_by: ami-levin
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/bandaymuzzamil/LinkedIn/blob/master/Interpolation/CHapter
+    3 - Video 2 - Proximal Interpolation.sql
+  detection_source: Interpolation/CHapter 3 - Video 2 - Proximal Interpolation.sql
+  last_updated_by: Ami Levin
+  last_updated_on: 2021-08-13 00:32:34.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/bandaymuzzamil/LinkedIn
+  detection_source: Repo Metadata
